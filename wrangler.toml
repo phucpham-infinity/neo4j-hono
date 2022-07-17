@@ -1,0 +1,9 @@
+name = "neo4j-hono"
+main = "src/index.ts"
+compatibility_date = "2022-07-17"
+
+node_compat = true
+workers_dev = true
+
+[vars]
+URI = "neo4j+s://184de066.databases.neo4j.io"
